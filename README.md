@@ -1,4 +1,11 @@
-# ReduxSimpleStarter
+# Client Side
+
+Following an Udemy tutorial to create a Frontend Signin/Signout.
+
+Utilizes Reactjs, Redux, react-router, reduxThunk, redux form and axios.
+
+Updated:
+- redux-form@6.8 and code for form.
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
