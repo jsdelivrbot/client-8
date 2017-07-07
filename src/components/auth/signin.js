@@ -35,7 +35,6 @@ class Signin extends Component {
 
   render(){
     const { handleSubmit} = this.props;
-
     return(
       <form onSubmit={handleSubmit(this.handleFormSubmit.bind(this))}>
         <Field
